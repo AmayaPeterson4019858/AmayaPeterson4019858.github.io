@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Amaya's school life>
+</head>
+<body>
+  <!--Visible HTML elements GO HERE-->
+  
+  <!-- All content goes here -->
+  <div id="all-contents">
+    <nav>
+      <h1>_Amaya Peterson/h1>
+      <ul id="nav-ul">
+        <li class="nav-li">
+          <a href="index.html">Home</a>
+        </li>
+        <li class="nav-li">
+          <a href="portfolio.html">Portfolio</a>
+        </li>
+      </ul>
+    </nav>
+    <main>
+      <!-- Sidebar section -->
+      <div class="sidebar">
+        <img class="sidebar-img" src="Image:""
+      </div>
+      
+      <!-- Content section -->
+      <div class="content">
+        <h2></h2>
+        <p></p>
+        
+        <!-- Interests section -->
+        <div id="interests">
+          <h3>Interests</h3>
+          <ul>
+            <li>I lke to dance_____</li>
+            <li>_im learrning how to bake </li>
+            <li>I love playing with my cousins.</li>
+          </ul>
+        </div>
+      </div>
+    </main>
+  </div>
+</body>
+</html>
+git add. git commit -m 'css code' git push
