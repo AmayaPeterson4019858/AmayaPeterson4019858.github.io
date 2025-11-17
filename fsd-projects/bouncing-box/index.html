@@ -60,7 +60,8 @@
         }  positionX = 0;
         changeBoxText(points);
         points = points + 1
-
+       var speed = 10
+      speed = speed + 3
 
         // changes the text displayed on the Box
         function changeBoxText(newText) {
@@ -87,7 +88,7 @@
         function update() {
           moveBoxTo(positionX); // Moves box to x-position 200
        positionX = positionX + 10;
-        
+      positionX = positionX + speed;
 
           
         }
