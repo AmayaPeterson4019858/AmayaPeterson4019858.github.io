@@ -84,7 +84,8 @@ var init = function (window) {
            game.checkCirclePosition(circles[4])
 
             // TODO 8 / TODO 9 : Iterate over the array
-           
+           physikz.updatePosition(circles[0])
+           physikz.updatePosition(circles[1])
             
         }
     
